@@ -40,7 +40,7 @@ export default function App() {
     } else {
       Alert.alert("Authentication failed. Please, insert your password!");
     }
-
+     // Juao pé de feijao
     setIsModalVisible(false);
     //caso o usuário nao consiga fazer autenticacao com a biometria
     //o banner modal fica invisivel para que ele possa digitar uma senha
