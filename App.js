@@ -22,7 +22,7 @@ export default function App() {
     const hasPassword = await LocalAuthentication.isEnrolledAsync();
     //isEnrolledAsync() diz se o usuario tem alguma biometria salva
     //se nao tem senha salva nao ha como altenticar o usuário
-
+     //teste
     if (!hasPassword) return;
     //se nao ha senha, retorna ao inicio da funcao
 
