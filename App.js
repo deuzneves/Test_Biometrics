@@ -18,6 +18,7 @@ export default function App() {
  //jdsagfhjkagsdhjkfgkhjasdf
  //ahdfjasdhjbajsdf
 
+ // Oi jana, turubom?
   async function authenticate() {
     //transformacao em funcao asincrona pra utilizar o away(??)
 
